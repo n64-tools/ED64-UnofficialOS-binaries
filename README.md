@@ -1,2 +1,7 @@
-# ED64-UnofficialOS-binaries
-Binaries for the ED64 V3, 2.5 and 2 series of cartridges.
+# Unofficial-Official OS binaries for the ED64
+
+Note: The only supported hardware revisions are the: 3.0, 2.5 and 2.0. [ The X5 and X7 might be added in the future (if possible) ].
+
+USE AT YOUR OWN RISK: All releases in this post are an unofficial version that is not officially supported by Krikzz. Please pay careful attention to the changes, and backup your SD card before using.
+
+See releases for download.
